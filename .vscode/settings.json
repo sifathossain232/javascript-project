@@ -1,0 +1,14 @@
+{
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.combo.location": "off",
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.explosions.explosionOrder": "random",
+    "powermode.explosions.customExplosions": [
+
+    ],
+    "powermode.combo.timerEnabled": "hide",
+    "files.autoGuessEncoding": false,
+    "powermode.shake.enabled": true
+    
+}
